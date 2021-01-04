@@ -14,13 +14,6 @@ body {
     box-sizing: inherit;
 }
 
-.position-wrap {
-    max-width: 600px;
-    width: 80%;
-    margin: 0 auto;
-    padding: 50px 0;
-}
-
 section, aside, div {
     padding: 10px;
     border-radius: 10px;
@@ -51,7 +44,7 @@ h4 {
     width: 50%;
 }
 
-.center2 {
+.contact-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
